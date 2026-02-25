@@ -1,0 +1,5 @@
+{
+  "name": "校園義工活動流程表產生器",
+  "description": "專為校園義工活動設計的流程表產生器，支援富文本複製與 Google Docs 排版相容性。",
+  "requestFramePermissions": []
+}
